@@ -18,7 +18,7 @@ export const Hero = () => {
           transition={{ duration: 3, repeat: Infinity }}
         >
           <img 
-            src="/profile/joshua.jpg" 
+            src="./Profile/joshua.jpg" 
             alt="Joshua Adante"
             className="profile-image"
           />
